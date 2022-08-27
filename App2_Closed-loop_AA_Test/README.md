@@ -4,7 +4,7 @@ ADEPT: A Testing Platform for Simulated Autonomous Driving
 ## Closed-loop Testing Based on Adversarial Attack
 ### Comparison with other methods
 <center class="half">
-    <img src="./figure/fig_1.JPG" width="700"/><img src="./figure/fig_2.JPG" width="700"/>
+    <img src="./figure/fig_1.JPG" width="500"/><img src="./figure/fig_2.JPG" width="500"/>
 </center>
 
 As is depicted in the figure above, our closed-loop method (right) directly modifies the billboard physically instead of modifying the view of the ADS digitally (left).
