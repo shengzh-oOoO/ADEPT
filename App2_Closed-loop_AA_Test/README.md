@@ -3,11 +3,11 @@ ADEPT: A Testing Platform for Simulated Autonomous Driving
 
 ## Closed-loop Testing Based on Adversarial Attack
 ### Comparison with other methods
-<center class="half">
-    <img src="./figure/fig_1.JPG" width="500"/><img src="./figure/fig_2.JPG" width="500"/>
-</center>
+![](./figure/fig_1.JPG)
 
-As is depicted in the figure above, our closed-loop method (right) directly modifies the billboard physically instead of modifying the view of the ADS digitally (left).
+![](./figure/fig_2.JPG)
+
+As is depicted in the figure above, our closed-loop method (upper) directly modifies the billboard physically instead of modifying the view of the ADS digitally (lower).
 
 ### Generation of robust AEs
 Malicious Attacker Module (MAM) leverages the feedback to anchor itself from the view of the victim vehicle in order to conduct tailored attacks. With adversarial attack algorithms, MAM determines what to show in the next frame attempting to fool the victim vehicle in order to conduct tailored attacks. With adversarial attack algorithms, MAM determines what to show in the next frame attempting to fool the victim.
