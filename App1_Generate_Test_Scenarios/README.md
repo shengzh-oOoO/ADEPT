@@ -12,7 +12,7 @@ We leverage natural language processing aiming for automated translation of the 
 
 The figure shows an example. A customized GPT-3 extracts valuable information (e.g., number of cars, the Vehicle brand, the position, speed, and direction) from the accident description in natural language to generate a Scenic code. Then, the ADS test case is generated based on the Scenic code. Since Carla and Scenic do not support Chevrolet Tahoe, the tool randomly selects an Audi Etron as the vehicle 2 at this time.
 
-![example](figures\example.jpg)
+![example](example.jpg)
 
 ## Usage
 
